@@ -4,7 +4,7 @@ zip="    "
 
 name="BlackSpiderMan" 
 version="1.0" 
-url="https://www.magentacloud.de/api/sharelink/download?id=pMACuiOe"
+url="https://www.magentacloud.de/api/sharelink/download?id=sXgiu6yA"
 minor="http://" 
 gui="https://" 
 kodi="18.8" 
